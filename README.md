@@ -9,6 +9,7 @@ During this class, you will learn:
 You'll use this repo with GitHub's training on the Wheelhouse platform. When you're asked questions about a repository, this is where you'll find the answers. In addition, during the labs you can make changes directly on this repository and the changes will be reflected on Wheelhouse once they've been performed correctly. This way you get feedback about the work you've done.
 
 #1 Added a local change.
+#9 Added a ninth change on remote
 #8 added an eigth change on remote
 #2 Added a second change.
 #6 Added a sixth change on remote
