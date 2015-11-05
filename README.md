@@ -10,3 +10,4 @@ You'll use this repo with GitHub's training on the Wheelhouse platform. When you
 
 #1 Added a local change.
 #2 Added a second change.
+#6 Added a sixth change on remote
